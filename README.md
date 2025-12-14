@@ -1,4 +1,4 @@
-# 🩻 MedVLM-Probe
+#  MedVLM-Probe
 
 **Does your Medical Vision-Language Model actually see, or just guess?**
 
