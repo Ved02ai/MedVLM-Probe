@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 What is this?
+## 🎯 What is MedVLM-Probe?
 
 MedVLM-Probe is a **method for checking visual reasoning** in medical Vision-Language Models. It runs systematic probes to evaluate whether your VLM actually understands medical images or just pattern-matches.
 
@@ -90,7 +90,7 @@ MedVLMProbe.quick_eval("Qwen/Qwen2.5-VL-3B-Instruct")
 📊 MEDVLM-PROBE REPORT
 ============================================================
 
-🤖 Model: Qwen/Qwen2.5-VL-3B-Instruct
+Model: Qwen/Qwen2.5-VL-3B-Instruct
 📁 Dataset: hf-vision/chest-xray-pneumonia
 
 🎯 Overall Score: 75.0% (12/16 passed)
@@ -101,7 +101,7 @@ MedVLMProbe.quick_eval("Qwen/Qwen2.5-VL-3B-Instruct")
    ✅ Swap: 100.0%
    ⚠️ Grounding: 66.7%
 
-🩻 Classification Accuracy:
+Classification Accuracy:
    Normal: 80.0%
    Pneumonia: 80.0%
 ```
@@ -137,7 +137,7 @@ config = ProbeConfig(
 
 ---
 
-## 🛠️ Supported Models
+## Supported Models
 
 - ✅ Qwen2.5-VL (3B, 7B, 72B)
 - ✅ LLaVA (1.5, 1.6)
@@ -243,7 +243,7 @@ MedVLM-Probe/
 - **HuggingFace MedReasoning-Lab**: [MedReasoning Lab](https://huggingface.co/medreasoning-lab)
 ---
 
-## 🤝 Contributing
+## Contributing
 
 PRs welcome! Ideas:
 
