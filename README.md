@@ -240,9 +240,7 @@ MedVLM-Probe/
 ## 🔗 Links
 
 - **Author**: Vedant Malik, Parkland High School, Allentown, PA
-- **Lab**: [MedReasoning Lab](https://github.com/MedReasoningLab)
-- **HuggingFace**: [vedantmalik](https://huggingface.co/vedantmalik)
-
+- **HuggingFace MedReasoning-Lab**: [MedReasoning Lab](https://huggingface.co/medreasoning-lab)
 ---
 
 ## 🤝 Contributing
@@ -262,5 +260,3 @@ PRs welcome! Ideas:
 MIT License - see [LICENSE](LICENSE)
 
 ---
-
-**Made by MedReasoning Lab**
